@@ -369,6 +369,12 @@ var config = {
 
     // }
 
+    // dropbox: {
+    //     // Replace <APP_ID> with your dropbox application ID to enable the
+    //     // dropbox integration.
+    //     clientId: "<APP_ID>"
+    // }
+
     // Options related to end-to-end (participant to participant) ping.
     // e2eping: {
     //   // The interval in milliseconds at which pings will be sent.
